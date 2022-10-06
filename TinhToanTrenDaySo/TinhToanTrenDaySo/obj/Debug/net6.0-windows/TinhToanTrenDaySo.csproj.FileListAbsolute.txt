@@ -1,0 +1,17 @@
+E:\DHGTVT\Lap_Trinh_Truc_Quan\TinhToanTrenDaySo\TinhToanTrenDaySo\bin\Debug\net6.0-windows\TinhToanTrenDaySo.exe
+E:\DHGTVT\Lap_Trinh_Truc_Quan\TinhToanTrenDaySo\TinhToanTrenDaySo\bin\Debug\net6.0-windows\TinhToanTrenDaySo.deps.json
+E:\DHGTVT\Lap_Trinh_Truc_Quan\TinhToanTrenDaySo\TinhToanTrenDaySo\bin\Debug\net6.0-windows\TinhToanTrenDaySo.runtimeconfig.json
+E:\DHGTVT\Lap_Trinh_Truc_Quan\TinhToanTrenDaySo\TinhToanTrenDaySo\bin\Debug\net6.0-windows\TinhToanTrenDaySo.dll
+E:\DHGTVT\Lap_Trinh_Truc_Quan\TinhToanTrenDaySo\TinhToanTrenDaySo\bin\Debug\net6.0-windows\TinhToanTrenDaySo.pdb
+E:\DHGTVT\Lap_Trinh_Truc_Quan\TinhToanTrenDaySo\TinhToanTrenDaySo\obj\Debug\net6.0-windows\TinhToanTrenDaySo.csproj.AssemblyReference.cache
+E:\DHGTVT\Lap_Trinh_Truc_Quan\TinhToanTrenDaySo\TinhToanTrenDaySo\obj\Debug\net6.0-windows\TinhToanTrenDaySo.Form1.resources
+E:\DHGTVT\Lap_Trinh_Truc_Quan\TinhToanTrenDaySo\TinhToanTrenDaySo\obj\Debug\net6.0-windows\TinhToanTrenDaySo.csproj.GenerateResource.cache
+E:\DHGTVT\Lap_Trinh_Truc_Quan\TinhToanTrenDaySo\TinhToanTrenDaySo\obj\Debug\net6.0-windows\TinhToanTrenDaySo.GeneratedMSBuildEditorConfig.editorconfig
+E:\DHGTVT\Lap_Trinh_Truc_Quan\TinhToanTrenDaySo\TinhToanTrenDaySo\obj\Debug\net6.0-windows\TinhToanTrenDaySo.AssemblyInfoInputs.cache
+E:\DHGTVT\Lap_Trinh_Truc_Quan\TinhToanTrenDaySo\TinhToanTrenDaySo\obj\Debug\net6.0-windows\TinhToanTrenDaySo.AssemblyInfo.cs
+E:\DHGTVT\Lap_Trinh_Truc_Quan\TinhToanTrenDaySo\TinhToanTrenDaySo\obj\Debug\net6.0-windows\TinhToanTrenDaySo.csproj.CoreCompileInputs.cache
+E:\DHGTVT\Lap_Trinh_Truc_Quan\TinhToanTrenDaySo\TinhToanTrenDaySo\obj\Debug\net6.0-windows\TinhToanTrenDaySo.dll
+E:\DHGTVT\Lap_Trinh_Truc_Quan\TinhToanTrenDaySo\TinhToanTrenDaySo\obj\Debug\net6.0-windows\refint\TinhToanTrenDaySo.dll
+E:\DHGTVT\Lap_Trinh_Truc_Quan\TinhToanTrenDaySo\TinhToanTrenDaySo\obj\Debug\net6.0-windows\TinhToanTrenDaySo.pdb
+E:\DHGTVT\Lap_Trinh_Truc_Quan\TinhToanTrenDaySo\TinhToanTrenDaySo\obj\Debug\net6.0-windows\TinhToanTrenDaySo.genruntimeconfig.cache
+E:\DHGTVT\Lap_Trinh_Truc_Quan\TinhToanTrenDaySo\TinhToanTrenDaySo\obj\Debug\net6.0-windows\ref\TinhToanTrenDaySo.dll

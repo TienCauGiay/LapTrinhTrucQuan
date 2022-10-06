@@ -1,0 +1,17 @@
+E:\DHGTVT\Lap_Trinh_Truc_Quan\BaiTapThem_Bai5_DaySo\BaiTapThem_Bai5_DaySo\bin\Debug\net6.0-windows\BaiTapThem_Bai5_DaySo.exe
+E:\DHGTVT\Lap_Trinh_Truc_Quan\BaiTapThem_Bai5_DaySo\BaiTapThem_Bai5_DaySo\bin\Debug\net6.0-windows\BaiTapThem_Bai5_DaySo.deps.json
+E:\DHGTVT\Lap_Trinh_Truc_Quan\BaiTapThem_Bai5_DaySo\BaiTapThem_Bai5_DaySo\bin\Debug\net6.0-windows\BaiTapThem_Bai5_DaySo.runtimeconfig.json
+E:\DHGTVT\Lap_Trinh_Truc_Quan\BaiTapThem_Bai5_DaySo\BaiTapThem_Bai5_DaySo\bin\Debug\net6.0-windows\BaiTapThem_Bai5_DaySo.dll
+E:\DHGTVT\Lap_Trinh_Truc_Quan\BaiTapThem_Bai5_DaySo\BaiTapThem_Bai5_DaySo\bin\Debug\net6.0-windows\BaiTapThem_Bai5_DaySo.pdb
+E:\DHGTVT\Lap_Trinh_Truc_Quan\BaiTapThem_Bai5_DaySo\BaiTapThem_Bai5_DaySo\obj\Debug\net6.0-windows\BaiTapThem_Bai5_DaySo.csproj.AssemblyReference.cache
+E:\DHGTVT\Lap_Trinh_Truc_Quan\BaiTapThem_Bai5_DaySo\BaiTapThem_Bai5_DaySo\obj\Debug\net6.0-windows\BaiTapThem_Bai5_DaySo.Form1.resources
+E:\DHGTVT\Lap_Trinh_Truc_Quan\BaiTapThem_Bai5_DaySo\BaiTapThem_Bai5_DaySo\obj\Debug\net6.0-windows\BaiTapThem_Bai5_DaySo.csproj.GenerateResource.cache
+E:\DHGTVT\Lap_Trinh_Truc_Quan\BaiTapThem_Bai5_DaySo\BaiTapThem_Bai5_DaySo\obj\Debug\net6.0-windows\BaiTapThem_Bai5_DaySo.GeneratedMSBuildEditorConfig.editorconfig
+E:\DHGTVT\Lap_Trinh_Truc_Quan\BaiTapThem_Bai5_DaySo\BaiTapThem_Bai5_DaySo\obj\Debug\net6.0-windows\BaiTapThem_Bai5_DaySo.AssemblyInfoInputs.cache
+E:\DHGTVT\Lap_Trinh_Truc_Quan\BaiTapThem_Bai5_DaySo\BaiTapThem_Bai5_DaySo\obj\Debug\net6.0-windows\BaiTapThem_Bai5_DaySo.AssemblyInfo.cs
+E:\DHGTVT\Lap_Trinh_Truc_Quan\BaiTapThem_Bai5_DaySo\BaiTapThem_Bai5_DaySo\obj\Debug\net6.0-windows\BaiTapThem_Bai5_DaySo.csproj.CoreCompileInputs.cache
+E:\DHGTVT\Lap_Trinh_Truc_Quan\BaiTapThem_Bai5_DaySo\BaiTapThem_Bai5_DaySo\obj\Debug\net6.0-windows\BaiTapThem_Bai5_DaySo.dll
+E:\DHGTVT\Lap_Trinh_Truc_Quan\BaiTapThem_Bai5_DaySo\BaiTapThem_Bai5_DaySo\obj\Debug\net6.0-windows\refint\BaiTapThem_Bai5_DaySo.dll
+E:\DHGTVT\Lap_Trinh_Truc_Quan\BaiTapThem_Bai5_DaySo\BaiTapThem_Bai5_DaySo\obj\Debug\net6.0-windows\BaiTapThem_Bai5_DaySo.pdb
+E:\DHGTVT\Lap_Trinh_Truc_Quan\BaiTapThem_Bai5_DaySo\BaiTapThem_Bai5_DaySo\obj\Debug\net6.0-windows\BaiTapThem_Bai5_DaySo.genruntimeconfig.cache
+E:\DHGTVT\Lap_Trinh_Truc_Quan\BaiTapThem_Bai5_DaySo\BaiTapThem_Bai5_DaySo\obj\Debug\net6.0-windows\ref\BaiTapThem_Bai5_DaySo.dll

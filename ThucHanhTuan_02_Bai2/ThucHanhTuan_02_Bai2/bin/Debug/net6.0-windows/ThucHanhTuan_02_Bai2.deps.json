@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ThucHanhTuan_02_Bai2/1.0.0": {
+        "runtime": {
+          "ThucHanhTuan_02_Bai2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ThucHanhTuan_02_Bai2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

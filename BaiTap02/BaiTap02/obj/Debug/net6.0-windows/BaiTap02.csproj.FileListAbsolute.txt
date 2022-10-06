@@ -1,0 +1,17 @@
+E:\DHGTVT\Lap_Trinh_Truc_Quan\BaiTap02\BaiTap02\bin\Debug\net6.0-windows\BaiTap02.exe
+E:\DHGTVT\Lap_Trinh_Truc_Quan\BaiTap02\BaiTap02\bin\Debug\net6.0-windows\BaiTap02.deps.json
+E:\DHGTVT\Lap_Trinh_Truc_Quan\BaiTap02\BaiTap02\bin\Debug\net6.0-windows\BaiTap02.runtimeconfig.json
+E:\DHGTVT\Lap_Trinh_Truc_Quan\BaiTap02\BaiTap02\bin\Debug\net6.0-windows\BaiTap02.dll
+E:\DHGTVT\Lap_Trinh_Truc_Quan\BaiTap02\BaiTap02\bin\Debug\net6.0-windows\BaiTap02.pdb
+E:\DHGTVT\Lap_Trinh_Truc_Quan\BaiTap02\BaiTap02\obj\Debug\net6.0-windows\BaiTap02.csproj.AssemblyReference.cache
+E:\DHGTVT\Lap_Trinh_Truc_Quan\BaiTap02\BaiTap02\obj\Debug\net6.0-windows\BaiTap02.Form1.resources
+E:\DHGTVT\Lap_Trinh_Truc_Quan\BaiTap02\BaiTap02\obj\Debug\net6.0-windows\BaiTap02.csproj.GenerateResource.cache
+E:\DHGTVT\Lap_Trinh_Truc_Quan\BaiTap02\BaiTap02\obj\Debug\net6.0-windows\BaiTap02.GeneratedMSBuildEditorConfig.editorconfig
+E:\DHGTVT\Lap_Trinh_Truc_Quan\BaiTap02\BaiTap02\obj\Debug\net6.0-windows\BaiTap02.AssemblyInfoInputs.cache
+E:\DHGTVT\Lap_Trinh_Truc_Quan\BaiTap02\BaiTap02\obj\Debug\net6.0-windows\BaiTap02.AssemblyInfo.cs
+E:\DHGTVT\Lap_Trinh_Truc_Quan\BaiTap02\BaiTap02\obj\Debug\net6.0-windows\BaiTap02.csproj.CoreCompileInputs.cache
+E:\DHGTVT\Lap_Trinh_Truc_Quan\BaiTap02\BaiTap02\obj\Debug\net6.0-windows\BaiTap02.dll
+E:\DHGTVT\Lap_Trinh_Truc_Quan\BaiTap02\BaiTap02\obj\Debug\net6.0-windows\refint\BaiTap02.dll
+E:\DHGTVT\Lap_Trinh_Truc_Quan\BaiTap02\BaiTap02\obj\Debug\net6.0-windows\BaiTap02.pdb
+E:\DHGTVT\Lap_Trinh_Truc_Quan\BaiTap02\BaiTap02\obj\Debug\net6.0-windows\BaiTap02.genruntimeconfig.cache
+E:\DHGTVT\Lap_Trinh_Truc_Quan\BaiTap02\BaiTap02\obj\Debug\net6.0-windows\ref\BaiTap02.dll

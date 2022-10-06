@@ -1,0 +1,17 @@
+E:\DHGTVT\Lap_Trinh_Truc_Quan\Tuan2_Bai1\Tuan2_Bai1\bin\Debug\net6.0-windows\Tuan2_Bai1.exe
+E:\DHGTVT\Lap_Trinh_Truc_Quan\Tuan2_Bai1\Tuan2_Bai1\bin\Debug\net6.0-windows\Tuan2_Bai1.deps.json
+E:\DHGTVT\Lap_Trinh_Truc_Quan\Tuan2_Bai1\Tuan2_Bai1\bin\Debug\net6.0-windows\Tuan2_Bai1.runtimeconfig.json
+E:\DHGTVT\Lap_Trinh_Truc_Quan\Tuan2_Bai1\Tuan2_Bai1\bin\Debug\net6.0-windows\Tuan2_Bai1.dll
+E:\DHGTVT\Lap_Trinh_Truc_Quan\Tuan2_Bai1\Tuan2_Bai1\bin\Debug\net6.0-windows\Tuan2_Bai1.pdb
+E:\DHGTVT\Lap_Trinh_Truc_Quan\Tuan2_Bai1\Tuan2_Bai1\obj\Debug\net6.0-windows\Tuan2_Bai1.csproj.AssemblyReference.cache
+E:\DHGTVT\Lap_Trinh_Truc_Quan\Tuan2_Bai1\Tuan2_Bai1\obj\Debug\net6.0-windows\Tuan2_Bai1.csproj.GenerateResource.cache
+E:\DHGTVT\Lap_Trinh_Truc_Quan\Tuan2_Bai1\Tuan2_Bai1\obj\Debug\net6.0-windows\Tuan2_Bai1.GeneratedMSBuildEditorConfig.editorconfig
+E:\DHGTVT\Lap_Trinh_Truc_Quan\Tuan2_Bai1\Tuan2_Bai1\obj\Debug\net6.0-windows\Tuan2_Bai1.AssemblyInfoInputs.cache
+E:\DHGTVT\Lap_Trinh_Truc_Quan\Tuan2_Bai1\Tuan2_Bai1\obj\Debug\net6.0-windows\Tuan2_Bai1.AssemblyInfo.cs
+E:\DHGTVT\Lap_Trinh_Truc_Quan\Tuan2_Bai1\Tuan2_Bai1\obj\Debug\net6.0-windows\Tuan2_Bai1.csproj.CoreCompileInputs.cache
+E:\DHGTVT\Lap_Trinh_Truc_Quan\Tuan2_Bai1\Tuan2_Bai1\obj\Debug\net6.0-windows\Tuan2_Bai1.dll
+E:\DHGTVT\Lap_Trinh_Truc_Quan\Tuan2_Bai1\Tuan2_Bai1\obj\Debug\net6.0-windows\refint\Tuan2_Bai1.dll
+E:\DHGTVT\Lap_Trinh_Truc_Quan\Tuan2_Bai1\Tuan2_Bai1\obj\Debug\net6.0-windows\Tuan2_Bai1.pdb
+E:\DHGTVT\Lap_Trinh_Truc_Quan\Tuan2_Bai1\Tuan2_Bai1\obj\Debug\net6.0-windows\Tuan2_Bai1.genruntimeconfig.cache
+E:\DHGTVT\Lap_Trinh_Truc_Quan\Tuan2_Bai1\Tuan2_Bai1\obj\Debug\net6.0-windows\ref\Tuan2_Bai1.dll
+E:\DHGTVT\Lap_Trinh_Truc_Quan\Tuan2_Bai1\Tuan2_Bai1\obj\Debug\net6.0-windows\Tuan2_Bai1.Form1.resources

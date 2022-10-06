@@ -1,0 +1,11 @@
+E:\DHGTVT\Lap_Trinh_Truc_Quan\BTVN_Bai10\BTVN_Bai10\bin\Debug\BTVN_Bai10.exe.config
+E:\DHGTVT\Lap_Trinh_Truc_Quan\BTVN_Bai10\BTVN_Bai10\bin\Debug\BTVN_Bai10.exe
+E:\DHGTVT\Lap_Trinh_Truc_Quan\BTVN_Bai10\BTVN_Bai10\bin\Debug\BTVN_Bai10.pdb
+E:\DHGTVT\Lap_Trinh_Truc_Quan\BTVN_Bai10\BTVN_Bai10\obj\Debug\BTVN_Bai10.csproj.AssemblyReference.cache
+E:\DHGTVT\Lap_Trinh_Truc_Quan\BTVN_Bai10\BTVN_Bai10\obj\Debug\BTVN_Bai10.csproj.SuggestedBindingRedirects.cache
+E:\DHGTVT\Lap_Trinh_Truc_Quan\BTVN_Bai10\BTVN_Bai10\obj\Debug\BTVN_Bai10.Form1.resources
+E:\DHGTVT\Lap_Trinh_Truc_Quan\BTVN_Bai10\BTVN_Bai10\obj\Debug\BTVN_Bai10.Properties.Resources.resources
+E:\DHGTVT\Lap_Trinh_Truc_Quan\BTVN_Bai10\BTVN_Bai10\obj\Debug\BTVN_Bai10.csproj.GenerateResource.cache
+E:\DHGTVT\Lap_Trinh_Truc_Quan\BTVN_Bai10\BTVN_Bai10\obj\Debug\BTVN_Bai10.csproj.CoreCompileInputs.cache
+E:\DHGTVT\Lap_Trinh_Truc_Quan\BTVN_Bai10\BTVN_Bai10\obj\Debug\BTVN_Bai10.exe
+E:\DHGTVT\Lap_Trinh_Truc_Quan\BTVN_Bai10\BTVN_Bai10\obj\Debug\BTVN_Bai10.pdb

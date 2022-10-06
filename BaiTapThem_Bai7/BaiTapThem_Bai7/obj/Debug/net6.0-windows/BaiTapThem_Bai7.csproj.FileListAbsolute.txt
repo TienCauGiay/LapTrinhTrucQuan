@@ -1,0 +1,17 @@
+E:\DHGTVT\Lap_Trinh_Truc_Quan\BaiTapThem_Bai7\BaiTapThem_Bai7\bin\Debug\net6.0-windows\BaiTapThem_Bai7.exe
+E:\DHGTVT\Lap_Trinh_Truc_Quan\BaiTapThem_Bai7\BaiTapThem_Bai7\bin\Debug\net6.0-windows\BaiTapThem_Bai7.deps.json
+E:\DHGTVT\Lap_Trinh_Truc_Quan\BaiTapThem_Bai7\BaiTapThem_Bai7\bin\Debug\net6.0-windows\BaiTapThem_Bai7.runtimeconfig.json
+E:\DHGTVT\Lap_Trinh_Truc_Quan\BaiTapThem_Bai7\BaiTapThem_Bai7\bin\Debug\net6.0-windows\BaiTapThem_Bai7.dll
+E:\DHGTVT\Lap_Trinh_Truc_Quan\BaiTapThem_Bai7\BaiTapThem_Bai7\bin\Debug\net6.0-windows\BaiTapThem_Bai7.pdb
+E:\DHGTVT\Lap_Trinh_Truc_Quan\BaiTapThem_Bai7\BaiTapThem_Bai7\obj\Debug\net6.0-windows\BaiTapThem_Bai7.csproj.AssemblyReference.cache
+E:\DHGTVT\Lap_Trinh_Truc_Quan\BaiTapThem_Bai7\BaiTapThem_Bai7\obj\Debug\net6.0-windows\BaiTapThem_Bai7.Form1.resources
+E:\DHGTVT\Lap_Trinh_Truc_Quan\BaiTapThem_Bai7\BaiTapThem_Bai7\obj\Debug\net6.0-windows\BaiTapThem_Bai7.csproj.GenerateResource.cache
+E:\DHGTVT\Lap_Trinh_Truc_Quan\BaiTapThem_Bai7\BaiTapThem_Bai7\obj\Debug\net6.0-windows\BaiTapThem_Bai7.GeneratedMSBuildEditorConfig.editorconfig
+E:\DHGTVT\Lap_Trinh_Truc_Quan\BaiTapThem_Bai7\BaiTapThem_Bai7\obj\Debug\net6.0-windows\BaiTapThem_Bai7.AssemblyInfoInputs.cache
+E:\DHGTVT\Lap_Trinh_Truc_Quan\BaiTapThem_Bai7\BaiTapThem_Bai7\obj\Debug\net6.0-windows\BaiTapThem_Bai7.AssemblyInfo.cs
+E:\DHGTVT\Lap_Trinh_Truc_Quan\BaiTapThem_Bai7\BaiTapThem_Bai7\obj\Debug\net6.0-windows\BaiTapThem_Bai7.csproj.CoreCompileInputs.cache
+E:\DHGTVT\Lap_Trinh_Truc_Quan\BaiTapThem_Bai7\BaiTapThem_Bai7\obj\Debug\net6.0-windows\BaiTapThem_Bai7.dll
+E:\DHGTVT\Lap_Trinh_Truc_Quan\BaiTapThem_Bai7\BaiTapThem_Bai7\obj\Debug\net6.0-windows\refint\BaiTapThem_Bai7.dll
+E:\DHGTVT\Lap_Trinh_Truc_Quan\BaiTapThem_Bai7\BaiTapThem_Bai7\obj\Debug\net6.0-windows\BaiTapThem_Bai7.pdb
+E:\DHGTVT\Lap_Trinh_Truc_Quan\BaiTapThem_Bai7\BaiTapThem_Bai7\obj\Debug\net6.0-windows\BaiTapThem_Bai7.genruntimeconfig.cache
+E:\DHGTVT\Lap_Trinh_Truc_Quan\BaiTapThem_Bai7\BaiTapThem_Bai7\obj\Debug\net6.0-windows\ref\BaiTapThem_Bai7.dll

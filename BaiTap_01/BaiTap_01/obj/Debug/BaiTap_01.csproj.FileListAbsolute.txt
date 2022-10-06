@@ -1,0 +1,8 @@
+E:\DHGTVT\Lap_Trinh_Truc_Quan\BaiTap_01\BaiTap_01\bin\Debug\BaiTap_01.exe.config
+E:\DHGTVT\Lap_Trinh_Truc_Quan\BaiTap_01\BaiTap_01\bin\Debug\BaiTap_01.exe
+E:\DHGTVT\Lap_Trinh_Truc_Quan\BaiTap_01\BaiTap_01\bin\Debug\BaiTap_01.pdb
+E:\DHGTVT\Lap_Trinh_Truc_Quan\BaiTap_01\BaiTap_01\obj\Debug\BaiTap_01.csproj.AssemblyReference.cache
+E:\DHGTVT\Lap_Trinh_Truc_Quan\BaiTap_01\BaiTap_01\obj\Debug\BaiTap_01.csproj.SuggestedBindingRedirects.cache
+E:\DHGTVT\Lap_Trinh_Truc_Quan\BaiTap_01\BaiTap_01\obj\Debug\BaiTap_01.csproj.CoreCompileInputs.cache
+E:\DHGTVT\Lap_Trinh_Truc_Quan\BaiTap_01\BaiTap_01\obj\Debug\BaiTap_01.exe
+E:\DHGTVT\Lap_Trinh_Truc_Quan\BaiTap_01\BaiTap_01\obj\Debug\BaiTap_01.pdb

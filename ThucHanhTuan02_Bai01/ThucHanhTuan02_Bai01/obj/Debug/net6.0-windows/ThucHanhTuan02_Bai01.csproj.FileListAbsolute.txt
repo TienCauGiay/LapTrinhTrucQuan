@@ -1,0 +1,17 @@
+E:\DHGTVT\Lap_Trinh_Truc_Quan\ThucHanhTuan02_Bai01\ThucHanhTuan02_Bai01\bin\Debug\net6.0-windows\ThucHanhTuan02_Bai01.exe
+E:\DHGTVT\Lap_Trinh_Truc_Quan\ThucHanhTuan02_Bai01\ThucHanhTuan02_Bai01\bin\Debug\net6.0-windows\ThucHanhTuan02_Bai01.deps.json
+E:\DHGTVT\Lap_Trinh_Truc_Quan\ThucHanhTuan02_Bai01\ThucHanhTuan02_Bai01\bin\Debug\net6.0-windows\ThucHanhTuan02_Bai01.runtimeconfig.json
+E:\DHGTVT\Lap_Trinh_Truc_Quan\ThucHanhTuan02_Bai01\ThucHanhTuan02_Bai01\bin\Debug\net6.0-windows\ThucHanhTuan02_Bai01.dll
+E:\DHGTVT\Lap_Trinh_Truc_Quan\ThucHanhTuan02_Bai01\ThucHanhTuan02_Bai01\bin\Debug\net6.0-windows\ThucHanhTuan02_Bai01.pdb
+E:\DHGTVT\Lap_Trinh_Truc_Quan\ThucHanhTuan02_Bai01\ThucHanhTuan02_Bai01\obj\Debug\net6.0-windows\ThucHanhTuan02_Bai01.csproj.AssemblyReference.cache
+E:\DHGTVT\Lap_Trinh_Truc_Quan\ThucHanhTuan02_Bai01\ThucHanhTuan02_Bai01\obj\Debug\net6.0-windows\ThucHanhTuan02_Bai01.Form1.resources
+E:\DHGTVT\Lap_Trinh_Truc_Quan\ThucHanhTuan02_Bai01\ThucHanhTuan02_Bai01\obj\Debug\net6.0-windows\ThucHanhTuan02_Bai01.csproj.GenerateResource.cache
+E:\DHGTVT\Lap_Trinh_Truc_Quan\ThucHanhTuan02_Bai01\ThucHanhTuan02_Bai01\obj\Debug\net6.0-windows\ThucHanhTuan02_Bai01.GeneratedMSBuildEditorConfig.editorconfig
+E:\DHGTVT\Lap_Trinh_Truc_Quan\ThucHanhTuan02_Bai01\ThucHanhTuan02_Bai01\obj\Debug\net6.0-windows\ThucHanhTuan02_Bai01.AssemblyInfoInputs.cache
+E:\DHGTVT\Lap_Trinh_Truc_Quan\ThucHanhTuan02_Bai01\ThucHanhTuan02_Bai01\obj\Debug\net6.0-windows\ThucHanhTuan02_Bai01.AssemblyInfo.cs
+E:\DHGTVT\Lap_Trinh_Truc_Quan\ThucHanhTuan02_Bai01\ThucHanhTuan02_Bai01\obj\Debug\net6.0-windows\ThucHanhTuan02_Bai01.csproj.CoreCompileInputs.cache
+E:\DHGTVT\Lap_Trinh_Truc_Quan\ThucHanhTuan02_Bai01\ThucHanhTuan02_Bai01\obj\Debug\net6.0-windows\ThucHanhTuan02_Bai01.dll
+E:\DHGTVT\Lap_Trinh_Truc_Quan\ThucHanhTuan02_Bai01\ThucHanhTuan02_Bai01\obj\Debug\net6.0-windows\refint\ThucHanhTuan02_Bai01.dll
+E:\DHGTVT\Lap_Trinh_Truc_Quan\ThucHanhTuan02_Bai01\ThucHanhTuan02_Bai01\obj\Debug\net6.0-windows\ThucHanhTuan02_Bai01.pdb
+E:\DHGTVT\Lap_Trinh_Truc_Quan\ThucHanhTuan02_Bai01\ThucHanhTuan02_Bai01\obj\Debug\net6.0-windows\ThucHanhTuan02_Bai01.genruntimeconfig.cache
+E:\DHGTVT\Lap_Trinh_Truc_Quan\ThucHanhTuan02_Bai01\ThucHanhTuan02_Bai01\obj\Debug\net6.0-windows\ref\ThucHanhTuan02_Bai01.dll

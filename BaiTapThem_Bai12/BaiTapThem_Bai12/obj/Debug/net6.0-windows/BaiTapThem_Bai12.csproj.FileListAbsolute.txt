@@ -1,0 +1,17 @@
+E:\DHGTVT\Lap_Trinh_Truc_Quan\BaiTapThem_Bai12\BaiTapThem_Bai12\bin\Debug\net6.0-windows\BaiTapThem_Bai12.exe
+E:\DHGTVT\Lap_Trinh_Truc_Quan\BaiTapThem_Bai12\BaiTapThem_Bai12\bin\Debug\net6.0-windows\BaiTapThem_Bai12.deps.json
+E:\DHGTVT\Lap_Trinh_Truc_Quan\BaiTapThem_Bai12\BaiTapThem_Bai12\bin\Debug\net6.0-windows\BaiTapThem_Bai12.runtimeconfig.json
+E:\DHGTVT\Lap_Trinh_Truc_Quan\BaiTapThem_Bai12\BaiTapThem_Bai12\bin\Debug\net6.0-windows\BaiTapThem_Bai12.dll
+E:\DHGTVT\Lap_Trinh_Truc_Quan\BaiTapThem_Bai12\BaiTapThem_Bai12\bin\Debug\net6.0-windows\BaiTapThem_Bai12.pdb
+E:\DHGTVT\Lap_Trinh_Truc_Quan\BaiTapThem_Bai12\BaiTapThem_Bai12\obj\Debug\net6.0-windows\BaiTapThem_Bai12.csproj.AssemblyReference.cache
+E:\DHGTVT\Lap_Trinh_Truc_Quan\BaiTapThem_Bai12\BaiTapThem_Bai12\obj\Debug\net6.0-windows\BaiTapThem_Bai12.Form1.resources
+E:\DHGTVT\Lap_Trinh_Truc_Quan\BaiTapThem_Bai12\BaiTapThem_Bai12\obj\Debug\net6.0-windows\BaiTapThem_Bai12.csproj.GenerateResource.cache
+E:\DHGTVT\Lap_Trinh_Truc_Quan\BaiTapThem_Bai12\BaiTapThem_Bai12\obj\Debug\net6.0-windows\BaiTapThem_Bai12.GeneratedMSBuildEditorConfig.editorconfig
+E:\DHGTVT\Lap_Trinh_Truc_Quan\BaiTapThem_Bai12\BaiTapThem_Bai12\obj\Debug\net6.0-windows\BaiTapThem_Bai12.AssemblyInfoInputs.cache
+E:\DHGTVT\Lap_Trinh_Truc_Quan\BaiTapThem_Bai12\BaiTapThem_Bai12\obj\Debug\net6.0-windows\BaiTapThem_Bai12.AssemblyInfo.cs
+E:\DHGTVT\Lap_Trinh_Truc_Quan\BaiTapThem_Bai12\BaiTapThem_Bai12\obj\Debug\net6.0-windows\BaiTapThem_Bai12.csproj.CoreCompileInputs.cache
+E:\DHGTVT\Lap_Trinh_Truc_Quan\BaiTapThem_Bai12\BaiTapThem_Bai12\obj\Debug\net6.0-windows\BaiTapThem_Bai12.dll
+E:\DHGTVT\Lap_Trinh_Truc_Quan\BaiTapThem_Bai12\BaiTapThem_Bai12\obj\Debug\net6.0-windows\refint\BaiTapThem_Bai12.dll
+E:\DHGTVT\Lap_Trinh_Truc_Quan\BaiTapThem_Bai12\BaiTapThem_Bai12\obj\Debug\net6.0-windows\BaiTapThem_Bai12.pdb
+E:\DHGTVT\Lap_Trinh_Truc_Quan\BaiTapThem_Bai12\BaiTapThem_Bai12\obj\Debug\net6.0-windows\BaiTapThem_Bai12.genruntimeconfig.cache
+E:\DHGTVT\Lap_Trinh_Truc_Quan\BaiTapThem_Bai12\BaiTapThem_Bai12\obj\Debug\net6.0-windows\ref\BaiTapThem_Bai12.dll

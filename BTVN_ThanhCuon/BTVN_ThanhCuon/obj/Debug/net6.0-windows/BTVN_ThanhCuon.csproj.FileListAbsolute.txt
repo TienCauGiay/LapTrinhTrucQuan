@@ -1,0 +1,17 @@
+E:\DHGTVT\Lap_Trinh_Truc_Quan\BTVN_ThanhCuon\BTVN_ThanhCuon\bin\Debug\net6.0-windows\BTVN_ThanhCuon.exe
+E:\DHGTVT\Lap_Trinh_Truc_Quan\BTVN_ThanhCuon\BTVN_ThanhCuon\bin\Debug\net6.0-windows\BTVN_ThanhCuon.deps.json
+E:\DHGTVT\Lap_Trinh_Truc_Quan\BTVN_ThanhCuon\BTVN_ThanhCuon\bin\Debug\net6.0-windows\BTVN_ThanhCuon.runtimeconfig.json
+E:\DHGTVT\Lap_Trinh_Truc_Quan\BTVN_ThanhCuon\BTVN_ThanhCuon\bin\Debug\net6.0-windows\BTVN_ThanhCuon.dll
+E:\DHGTVT\Lap_Trinh_Truc_Quan\BTVN_ThanhCuon\BTVN_ThanhCuon\bin\Debug\net6.0-windows\BTVN_ThanhCuon.pdb
+E:\DHGTVT\Lap_Trinh_Truc_Quan\BTVN_ThanhCuon\BTVN_ThanhCuon\obj\Debug\net6.0-windows\BTVN_ThanhCuon.csproj.AssemblyReference.cache
+E:\DHGTVT\Lap_Trinh_Truc_Quan\BTVN_ThanhCuon\BTVN_ThanhCuon\obj\Debug\net6.0-windows\BTVN_ThanhCuon.Form1.resources
+E:\DHGTVT\Lap_Trinh_Truc_Quan\BTVN_ThanhCuon\BTVN_ThanhCuon\obj\Debug\net6.0-windows\BTVN_ThanhCuon.csproj.GenerateResource.cache
+E:\DHGTVT\Lap_Trinh_Truc_Quan\BTVN_ThanhCuon\BTVN_ThanhCuon\obj\Debug\net6.0-windows\BTVN_ThanhCuon.GeneratedMSBuildEditorConfig.editorconfig
+E:\DHGTVT\Lap_Trinh_Truc_Quan\BTVN_ThanhCuon\BTVN_ThanhCuon\obj\Debug\net6.0-windows\BTVN_ThanhCuon.AssemblyInfoInputs.cache
+E:\DHGTVT\Lap_Trinh_Truc_Quan\BTVN_ThanhCuon\BTVN_ThanhCuon\obj\Debug\net6.0-windows\BTVN_ThanhCuon.AssemblyInfo.cs
+E:\DHGTVT\Lap_Trinh_Truc_Quan\BTVN_ThanhCuon\BTVN_ThanhCuon\obj\Debug\net6.0-windows\BTVN_ThanhCuon.csproj.CoreCompileInputs.cache
+E:\DHGTVT\Lap_Trinh_Truc_Quan\BTVN_ThanhCuon\BTVN_ThanhCuon\obj\Debug\net6.0-windows\BTVN_ThanhCuon.dll
+E:\DHGTVT\Lap_Trinh_Truc_Quan\BTVN_ThanhCuon\BTVN_ThanhCuon\obj\Debug\net6.0-windows\refint\BTVN_ThanhCuon.dll
+E:\DHGTVT\Lap_Trinh_Truc_Quan\BTVN_ThanhCuon\BTVN_ThanhCuon\obj\Debug\net6.0-windows\BTVN_ThanhCuon.pdb
+E:\DHGTVT\Lap_Trinh_Truc_Quan\BTVN_ThanhCuon\BTVN_ThanhCuon\obj\Debug\net6.0-windows\BTVN_ThanhCuon.genruntimeconfig.cache
+E:\DHGTVT\Lap_Trinh_Truc_Quan\BTVN_ThanhCuon\BTVN_ThanhCuon\obj\Debug\net6.0-windows\ref\BTVN_ThanhCuon.dll

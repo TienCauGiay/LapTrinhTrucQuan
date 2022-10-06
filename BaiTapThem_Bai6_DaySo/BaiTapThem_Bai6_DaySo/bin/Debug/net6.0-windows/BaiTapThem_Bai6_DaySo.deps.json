@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "BaiTapThem_Bai6_DaySo/1.0.0": {
+        "runtime": {
+          "BaiTapThem_Bai6_DaySo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BaiTapThem_Bai6_DaySo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

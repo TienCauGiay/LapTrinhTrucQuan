@@ -1,0 +1,17 @@
+E:\DHGTVT\Lap_Trinh_Truc_Quan\TinhSoNgayCuaThang\TinhSoNgayCuaThang\bin\Debug\net6.0-windows\TinhSoNgayCuaThang.exe
+E:\DHGTVT\Lap_Trinh_Truc_Quan\TinhSoNgayCuaThang\TinhSoNgayCuaThang\bin\Debug\net6.0-windows\TinhSoNgayCuaThang.deps.json
+E:\DHGTVT\Lap_Trinh_Truc_Quan\TinhSoNgayCuaThang\TinhSoNgayCuaThang\bin\Debug\net6.0-windows\TinhSoNgayCuaThang.runtimeconfig.json
+E:\DHGTVT\Lap_Trinh_Truc_Quan\TinhSoNgayCuaThang\TinhSoNgayCuaThang\bin\Debug\net6.0-windows\TinhSoNgayCuaThang.dll
+E:\DHGTVT\Lap_Trinh_Truc_Quan\TinhSoNgayCuaThang\TinhSoNgayCuaThang\bin\Debug\net6.0-windows\TinhSoNgayCuaThang.pdb
+E:\DHGTVT\Lap_Trinh_Truc_Quan\TinhSoNgayCuaThang\TinhSoNgayCuaThang\obj\Debug\net6.0-windows\TinhSoNgayCuaThang.csproj.AssemblyReference.cache
+E:\DHGTVT\Lap_Trinh_Truc_Quan\TinhSoNgayCuaThang\TinhSoNgayCuaThang\obj\Debug\net6.0-windows\TinhSoNgayCuaThang.Form1.resources
+E:\DHGTVT\Lap_Trinh_Truc_Quan\TinhSoNgayCuaThang\TinhSoNgayCuaThang\obj\Debug\net6.0-windows\TinhSoNgayCuaThang.csproj.GenerateResource.cache
+E:\DHGTVT\Lap_Trinh_Truc_Quan\TinhSoNgayCuaThang\TinhSoNgayCuaThang\obj\Debug\net6.0-windows\TinhSoNgayCuaThang.GeneratedMSBuildEditorConfig.editorconfig
+E:\DHGTVT\Lap_Trinh_Truc_Quan\TinhSoNgayCuaThang\TinhSoNgayCuaThang\obj\Debug\net6.0-windows\TinhSoNgayCuaThang.AssemblyInfoInputs.cache
+E:\DHGTVT\Lap_Trinh_Truc_Quan\TinhSoNgayCuaThang\TinhSoNgayCuaThang\obj\Debug\net6.0-windows\TinhSoNgayCuaThang.AssemblyInfo.cs
+E:\DHGTVT\Lap_Trinh_Truc_Quan\TinhSoNgayCuaThang\TinhSoNgayCuaThang\obj\Debug\net6.0-windows\TinhSoNgayCuaThang.csproj.CoreCompileInputs.cache
+E:\DHGTVT\Lap_Trinh_Truc_Quan\TinhSoNgayCuaThang\TinhSoNgayCuaThang\obj\Debug\net6.0-windows\TinhSoNgayCuaThang.dll
+E:\DHGTVT\Lap_Trinh_Truc_Quan\TinhSoNgayCuaThang\TinhSoNgayCuaThang\obj\Debug\net6.0-windows\refint\TinhSoNgayCuaThang.dll
+E:\DHGTVT\Lap_Trinh_Truc_Quan\TinhSoNgayCuaThang\TinhSoNgayCuaThang\obj\Debug\net6.0-windows\TinhSoNgayCuaThang.pdb
+E:\DHGTVT\Lap_Trinh_Truc_Quan\TinhSoNgayCuaThang\TinhSoNgayCuaThang\obj\Debug\net6.0-windows\TinhSoNgayCuaThang.genruntimeconfig.cache
+E:\DHGTVT\Lap_Trinh_Truc_Quan\TinhSoNgayCuaThang\TinhSoNgayCuaThang\obj\Debug\net6.0-windows\ref\TinhSoNgayCuaThang.dll
